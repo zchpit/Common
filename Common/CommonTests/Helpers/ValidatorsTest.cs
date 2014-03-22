@@ -1,13 +1,9 @@
-﻿using System;
+﻿using Zch.Common.Helpers;
 
-using Zch.Common;
-
-using FakeItEasy;
 using Xunit;
 using Xunit.Extensions;
 
-
-namespace Zch.CommonTests
+namespace Zch.CommonTests.Helpers
 {
     public class ValidatorsTest
     {

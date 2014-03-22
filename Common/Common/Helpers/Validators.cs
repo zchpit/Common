@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text.RegularExpressions;
-using System.Web;
 
-namespace Zch.Common
+namespace Zch.Common.Helpers
 {
     public class Validators
     {

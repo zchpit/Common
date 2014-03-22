@@ -48,8 +48,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Helpers\HelperTest.cs" />
+    <Compile Include="Helpers\RandomStringGeneratorTest.cs" />
+    <Compile Include="Helpers\ValidatorsTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ValidatorsTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
